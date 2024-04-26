@@ -16,5 +16,4 @@ $(document).ready(function() {
   $("#nombreCarrera").on( "mouseover", function() {
       $('#nombreUniversidad').css( "color", "green" );
   });
-
 });
